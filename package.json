@@ -1,0 +1,24 @@
+{
+  "name": "vue-cli-uni-sub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/vue-cli-uni-sub.git"
+  },
+  "keywords": [
+    "uniapp",
+    "subpackages",
+    "subPackages"
+  ],
+  "author": "yiri.zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bugszhou/vue-cli-uni-sub/issues"
+  },
+  "homepage": "https://github.com/bugszhou/vue-cli-uni-sub#readme"
+}
