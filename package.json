@@ -1,5 +1,5 @@
 {
-  "name": "vue-cli-uni-sub",
+  "name": "vue-cli-plugin-uni-sub",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
