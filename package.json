@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bugszhou/vue-cli-uni-sub/issues"
   },
-  "homepage": "https://github.com/bugszhou/vue-cli-uni-sub#readme"
+  "homepage": "https://github.com/bugszhou/vue-cli-uni-sub#readme",
+  "dependencies": {
+    "mini-program-uni-sub-require-webpack-plugin": "^1.0.0"
+  }
 }
