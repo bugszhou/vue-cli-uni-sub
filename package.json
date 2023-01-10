@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/bugszhou/vue-cli-uni-sub#readme",
   "dependencies": {
-    "mini-program-uni-sub-require-webpack-plugin": "^1.0.0"
+    "mini-program-uni-sub-require-webpack-plugin": "^1.0.1"
   }
 }
